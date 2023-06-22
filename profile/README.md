@@ -1,4 +1,4 @@
-![mygreatheader](systems.gif)
+![mygreatheader]([systems.gif](https://github.com/DataVerse-Systems/.github/blob/main/profile/systems.gif))
 
 | David Prutch | David Siebert |
 |:---------------:|:----------:|
