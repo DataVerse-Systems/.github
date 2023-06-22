@@ -1,4 +1,4 @@
-![mygreatheader](https://github.com/DataVerse-Systems/.github/blob/main/profile/systems.mp4)
+![mygreatheader](systems.mp4)
 
 | David Prutch | David Siebert |
 |:---------------:|:----------:|
