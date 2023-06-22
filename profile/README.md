@@ -1,4 +1,4 @@
-![mygreatheader](systems.mp4)
+![mygreatheader](systems.gif)
 
 | David Prutch | David Siebert |
 |:---------------:|:----------:|
