@@ -34,7 +34,7 @@ Simulate Globex Cloud Server.
 - We connected Windows 10 Host computers to Globex domain for global access to resources providing Authentication and Authorization.
 - We also configured traffic mirroring on the AWS side of the VPN for Accounting of network traffic between SunFlow and Globex.
 
-# Documentation Reopsitory
+# Documentation Repository
 [Documentation](https://github.com/DataVerse-Systems/Documentation) houses all the standard operating procedures and network design elements used to fulfill the requirements of this prototype network implementation.
 
 # Scripts Repository
